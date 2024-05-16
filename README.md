@@ -10,7 +10,7 @@ A list of good open-source fonts.
 
 - Uses: text, UI, display, code, ...
 
-- Opinionated subset, taste, personal...
+- Opinionated subset, taste, personal. Yes, I like monospaced fonts.
 
 
 ## The list
@@ -41,23 +41,23 @@ In alphabetic order.
 
 - Lekton: monospaced
 
-- [**Literata**](https://github.com/googlefonts/literata/): for Google Books by TypeTogether. [Wikipedia](https://en.wikipedia.org/wiki/Literata). Cyrillic, Greek. OFL.
+- [**Literata**](https://github.com/googlefonts/literata/): legible serif for Google Books by TypeTogether. [Wikipedia](https://en.wikipedia.org/wiki/Literata). Cyrillic, Greek. OFL.
 
-- **Merriweather**. Cyrillic
+- **Merriweather**: semi-serif. Cyrillic.
 
 - [**Noto**](https://notofonts.github.io/noto-docs/website/homepage/): multilanguage superfamily for Google ... [Wikipedia](https://en.wikipedia.org/wiki/Noto_fonts). [Google Fonts](https://fonts.google.com/noto). [Repo](https://github.com/notofonts). Cyrillic, Greek, Chinese, Japanese, Korean, ... OFL.
 
-- Overpass: Cyrillic
+- Overpass and Mono: Cyrillic
 
-- [Piazzolla](https://huertatipografica.com/en/fonts/piazzolla): [Site](https://piazzolla.huertatipografica.com/). Cyrillic, Greek
+- [Piazzolla](https://huertatipografica.com/en/fonts/piazzolla): serif. [Site](https://piazzolla.huertatipografica.com/). Cyrillic, Greek
  
-- **Roboto**: for Google Android. Cyrillic, Greek
+- **Roboto**: system sans-serif for Google Android. Cyrillic, Greek
  
 - **Source Sans**, **Source Serif** and **Source Mono**: by Adobe. Cyrillic, Greek
 
 - [**Spectral**](https://www.productiontype.com/family/spectral): for Goole Docs. [Google Fonts](https://fonts.google.com/specimen/Spectral). Cyrillic. OFL.
 
-- STIX Two Text: Cyrillic, Greek
+- STIX Two Text: serif with math. Cyrillic, Greek
 
 - **Ubuntu Sans** and **Ubuntu Mono**: for Ubuntu. Cyrillic, Greek
 
