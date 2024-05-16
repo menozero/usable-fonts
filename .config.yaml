@@ -1,0 +1,4 @@
+# remote_theme: 
+
+plugins:
+- jekyll-remote-theme
