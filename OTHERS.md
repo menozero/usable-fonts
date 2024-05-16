@@ -1,6 +1,7 @@
 
 ## See also
 
+- https://www.fontsquirrel.com/
 - https://en.wikipedia.org/wiki/Category:Open-source_typefaces
 - https://en.wikipedia.org/wiki/Category:Free_software_Unicode_typefaces
 - https://github.com/brabadu/awesome-fonts
@@ -22,6 +23,7 @@
 - DM Sans and Mono
 - GNU FreeFont
 - Go fonts
+- Inknut Anti­qua
 - Lato
 - Open Sans
 - Overpass
