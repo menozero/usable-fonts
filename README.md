@@ -17,17 +17,21 @@ A list of good open-source fonts.
 
 In alphabetic order.
 
-- **Alegreya** serif and **Alegreya Sans**. With small-caps. Cyrillic, Greek. OFL.
+- [**Alegreya**](https://huertatipografica.com/en/fonts/alegreya-ht-pro) serif and [**Alegreya Sans**](https://huertatipografica.com/en/fonts/alegreya-sans-ht). With small-caps. Cyrillic, Greek. OFL.
 
-- **Charis** by SIL. Similar to Bitstream Charter. Cyrillic. OFL.
+- [**Andada**](https://huertatipografica.com/en/fonts/andada-ht-pro). [Site](https://andada.huertatipografica.com/)
 
-- Cousine: monospaced. Cyrillic, Greek
+- [**Cascadia**](https://github.com/microsoft/cascadia-code): monospaced by Microsoft.
+
+- [**Charis**](https://software.sil.org/charis/) by SIL. Similar to Bitstream Charter. Cyrillic. OFL.
+
+- Cousine: monospaced. Cyrillic, Greek. Apache.
 
 - **Fira Sans** and **Fira Mono** (or Fira Code) and FiraGo: sans-serif (with condensed) and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. Cyrillic, Greek. OFL.
 
-- **Gentium** by SIL. Cyrillic, Greek. OFL.
+- [**Gentium**](https://software.sil.org/gentium/) by SIL. Cyrillic, Greek. OFL.
 
-- **IBM Plex Sans**, **Serif** and **Mono**: for IBM. Cyrillic, Greek, Japanese, Korean.
+- **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono**: for IBM. [Repo](https://github.com/IBM/plex). Cyrillic, Greek, Japanese, Korean. OFL.
 
 - **Inconsolata**: monospaced
 
@@ -37,7 +41,7 @@ In alphabetic order.
 
 - Lekton: monospaced
 
-- **Literata**: for Google Books by TypeTogether. Cyrillic, Greek
+- [**Literata**](https://github.com/googlefonts/literata/): for Google Books by TypeTogether. [Wikipedia](https://en.wikipedia.org/wiki/Literata). Cyrillic, Greek. OFL.
 
 - **Merriweather**. Cyrillic
 
@@ -45,16 +49,16 @@ In alphabetic order.
 
 - Overpass: Cyrillic
 
-- Piazzolla: Cyrillic, Greek
+- [Piazzolla](https://huertatipografica.com/en/fonts/piazzolla): [Site](https://piazzolla.huertatipografica.com/). Cyrillic, Greek
  
 - **Roboto**: for Google Android. Cyrillic, Greek
  
 - **Source Sans**, **Source Serif** and **Source Mono**: by Adobe. Cyrillic, Greek
 
-- **Spectral**: for Goole Docs. Cyrillic
+- [**Spectral**](https://www.productiontype.com/family/spectral): for Goole Docs. [Google Fonts](https://fonts.google.com/specimen/Spectral). Cyrillic. OFL.
 
 - STIX Two Text: Cyrillic, Greek
 
 - **Ubuntu Sans** and **Ubuntu Mono**: for Ubuntu. Cyrillic, Greek
 
-- **Work Sans**
+- [**Work Sans**](https://weiweihuanghuang.github.io/Work-Sans/). OFL.
