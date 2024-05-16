@@ -7,6 +7,8 @@
 - https://en.wikipedia.org/wiki/Category:Free_software_Unicode_typefaces
 - https://github.com/brabadu/awesome-fonts
 - https://gitlab.com/velvetyne/velvetyne-libre-friends/
+- https://practicaltypography.com/font-recommendations.html
+- https://practicaltypography.com/free-fonts.html
 - https://practicaltypography.com/why-google-fonts-arent-really-open-source.html
 
 ## NO
