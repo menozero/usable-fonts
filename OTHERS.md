@@ -1,3 +1,9 @@
+
+## NO
+
+- Arimo
+- Tinos
+
 ## TODO
 
 - Bitter
