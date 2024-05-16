@@ -14,6 +14,7 @@
 ## NO
 
 - Arimo
+- [Brill](https://brill.com/page/BrillFont/brill-typeface): free for non-commercial use.
 - Droid (old Android font)
 - Input (not free)
 - Liberation fonts
