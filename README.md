@@ -27,7 +27,7 @@ In alphabetic order.
 
 - **Gentium** by SIL. Cyrillic, Greek. OFL.
 
-- **IBM Plex Sans**, **Serif** and **Mono**: for IBM. Cyrillic, Greek
+- **IBM Plex Sans**, **Serif** and **Mono**: for IBM. Cyrillic, Greek, Japanese, Korean.
 
 - **Inconsolata**: monospaced
 
@@ -41,7 +41,7 @@ In alphabetic order.
 
 - **Merriweather**. Cyrillic
 
-- Noto: for Google ... Cyrillic, Greek
+- Noto: for Google ... Cyrillic, Greek, Chinese, Japanese, Korean.
 
 - Overpass: Cyrillic
 
