@@ -1,20 +1,31 @@
 # Usable Fonts
 
-A list of good open-source fonts
+A list of good open-source fonts.
+
+- The license should be "open source": SIL [Open Font License](https://openfontlicense.org/), ...
+
+- Languages and alphabets: Latin, Cyrillic, Greek. "Extended".
+
+- Typographic features (with OpenType).
+
+- Uses: text, UI, display, code, ...
+
+- Opinionated subset, taste, personal...
+- 
 
 ## The list
 
 In alphabetic order.
 
-- **Alegreya** and sans. Cyrillic, Greek
+- **Alegreya** serif and **Alegreya Sans**. With small-caps. Cyrillic, Greek. OFL.
 
-- **Charis** by SIL. Similar to Bitstream Charter. Cyrillic
+- **Charis** by SIL. Similar to Bitstream Charter. Cyrillic. OFL.
 
 - Cousine: monospaced. Cyrillic, Greek
 
-- **Fira Sans** and **Fira Mono** (or Fira Code and FiraGo): sans-serif and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. Cyrillic, Greek
+- **Fira Sans** and **Fira Mono** (or Fira Code) and FiraGo: sans-serif (with condensed) and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. Cyrillic, Greek. OFL.
 
-- **Gentium** by SIL. Cyrillic, Greek
+- **Gentium** by SIL. Cyrillic, Greek. OFL.
 
 - **IBM Plex Sans**, **Serif** and **Mono**: for IBM. Cyrillic, Greek
 
