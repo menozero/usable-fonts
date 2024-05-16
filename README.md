@@ -21,17 +21,17 @@ In alphabetic order.
 
 - [**Andada**](https://huertatipografica.com/en/fonts/andada-ht-pro). [Site](https://andada.huertatipografica.com/)
 
-- [**Cascadia**](https://github.com/microsoft/cascadia-code): monospaced by Microsoft.
+- [**Cascadia**](https://github.com/microsoft/cascadia-code): monospaced by Microsoft. [Wikipedia](https://en.wikipedia.org/wiki/Cascadia_Code).
 
-- [**Charis**](https://software.sil.org/charis/) by SIL. Similar to Bitstream Charter. Cyrillic. OFL.
+- [**Charis**](https://software.sil.org/charis/) by SIL. Based on [Bitstream Charter](https://en.wikipedia.org/wiki/Bitstream_Charter). Cyrillic. OFL.
 
 - Cousine: monospaced. Cyrillic, Greek. Apache.
 
 - **Fira Sans** and **Fira Mono** (or Fira Code) and FiraGo: sans-serif (with condensed) and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. Cyrillic, Greek. OFL.
 
-- [**Gentium**](https://software.sil.org/gentium/) by SIL. Cyrillic, Greek. OFL.
+- [**Gentium**](https://software.sil.org/gentium/) by SIL. [Wikipedia](https://en.wikipedia.org/wiki/Gentium). Cyrillic, Greek. OFL.
 
-- **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono**: for IBM. [Repo](https://github.com/IBM/plex). Cyrillic, Greek, Japanese, Korean. OFL.
+- **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono**: for IBM. [Repo](https://github.com/IBM/plex). [Wikipedia](https://en.wikipedia.org/wiki/IBM_Plex). Cyrillic, Greek, Japanese, Korean. OFL.
 
 - **Inconsolata**: monospaced
 
@@ -41,24 +41,24 @@ In alphabetic order.
 
 - Lekton: monospaced
 
-- [**Literata**](https://github.com/googlefonts/literata/): legible serif for Google Books by TypeTogether. [Wikipedia](https://en.wikipedia.org/wiki/Literata). Cyrillic, Greek. OFL.
+- [**Literata**](https://github.com/googlefonts/literata/): legible serif for Google Books by TypeTogether. [Site](https://www.type-together.com/literata-font). [Wikipedia](https://en.wikipedia.org/wiki/Literata). (Kindle has [Bookerly](https://en.wikipedia.org/wiki/Bookerly).) Cyrillic, Greek. OFL.
 
 - **Merriweather**: semi-serif. Cyrillic.
 
 - [**Noto**](https://notofonts.github.io/noto-docs/website/homepage/): multilanguage superfamily for Google ... [Wikipedia](https://en.wikipedia.org/wiki/Noto_fonts). [Google Fonts](https://fonts.google.com/noto). [Repo](https://github.com/notofonts). Cyrillic, Greek, Chinese, Japanese, Korean, ... OFL.
 
-- Overpass and Mono: Cyrillic
+- Overpass and Mono: for Red Hat. [Wikipedia](https://en.wikipedia.org/wiki/Overpass_(typeface)). Cyrillic
 
 - [Piazzolla](https://huertatipografica.com/en/fonts/piazzolla): serif. [Site](https://piazzolla.huertatipografica.com/). Cyrillic, Greek
  
-- **Roboto**: system sans-serif for Google Android. Cyrillic, Greek
+- **Roboto**: system sans-serif for Google Android. (Apple has [San Francisco](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)).)Cyrillic, Greek.
  
 - **Source Sans**, **Source Serif** and **Source Mono**: by Adobe. Cyrillic, Greek
 
 - [**Spectral**](https://www.productiontype.com/family/spectral): for Goole Docs. [Google Fonts](https://fonts.google.com/specimen/Spectral). Cyrillic. OFL.
 
-- STIX Two Text: serif with math. Cyrillic, Greek
+- STIX Two Text: serif with math. [Wikipedia](https://en.wikipedia.org/wiki/STIX_Fonts_project). Cyrillic, Greek
 
-- **Ubuntu Sans** and **Ubuntu Mono**: for Ubuntu. Cyrillic, Greek
+- **Ubuntu Sans** and **Ubuntu Mono**: system sans-serif font for Ubuntu. [Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(typeface)). Cyrillic, Greek
 
 - [**Work Sans**](https://weiweihuanghuang.github.io/Work-Sans/). OFL.
