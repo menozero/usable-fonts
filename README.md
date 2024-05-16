@@ -23,7 +23,9 @@ In alphabetic order.
 
 - [**Cascadia**](https://github.com/microsoft/cascadia-code): monospaced by Microsoft. [Wikipedia](https://en.wikipedia.org/wiki/Cascadia_Code).
 
-- [**Charis**](https://software.sil.org/charis/) by SIL. Based on [Bitstream Charter](https://en.wikipedia.org/wiki/Bitstream_Charter). Cyrillic. OFL.
+- [**Charis**](https://software.sil.org/charis/) by SIL. Based on [Bitstream Charter](https://en.wikipedia.org/wiki/Bitstream_Charter). (Download [Charter](https://practicaltypography.com/charter.html).) Cyrillic. OFL.
+
+- [**Cooper Hewitt**](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/): sans-serif. OFL.
 
 - Cousine: monospaced. Cyrillic, Greek. Apache.
 
