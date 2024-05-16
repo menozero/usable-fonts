@@ -6,7 +6,7 @@ A list of good open-source fonts.
 
 - Languages and alphabets: Latin, Cyrillic, Greek. "Extended".
 
-- Typographic features (with OpenType). If [superfamily](https://en.wikipedia.org/wiki/Font_superfamily) (or clan).
+- Typographic features (with OpenType): small caps, old style numerals, ... If [superfamily](https://en.wikipedia.org/wiki/Font_superfamily) (or clan). If variants (condensed, ...)
 
 - Uses: text, UI, display, code, ...
 
