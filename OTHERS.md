@@ -24,6 +24,7 @@
 ## TODO
 
 - Archivo
+- [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) ?
 - Bitter
 - Clear Sans
 - Croscore fonts
