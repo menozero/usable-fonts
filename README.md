@@ -35,7 +35,7 @@ In alphabetic order.
 
 - **Inconsolata**: monospaced
 
-- **Inter**: sans-serif, for Figma, by Rasmus Andersson. Cyrillic, Greek
+- [**Inter**](https://rsms.me/inter/): sans-serif, for Figma, by Rasmus Andersson. [Repo](https://github.com/rsms/inter). [Google Fonts](https://fonts.google.com/specimen/Inter). Cyrillic, Greek
 
 - **JetBrains Mono**: monospaced. Cyrillic, Greek
 
@@ -51,7 +51,7 @@ In alphabetic order.
 
 - [Piazzolla](https://huertatipografica.com/en/fonts/piazzolla): serif. [Site](https://piazzolla.huertatipografica.com/). Cyrillic, Greek
  
-- **Roboto**: system sans-serif for Google Android. (Apple has [San Francisco](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)).)Cyrillic, Greek.
+- **Roboto**: system sans-serif for Google Android. (Apple has [San Francisco](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)).) Cyrillic, Greek.
  
 - **Source Sans**, **Source Serif** and **Source Mono**: by Adobe. Cyrillic, Greek
 
