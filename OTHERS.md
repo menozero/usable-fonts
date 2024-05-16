@@ -19,16 +19,23 @@
 
 - Archivo
 - Bitter
+- Clear Sans
 - Croscore fonts
 - DM Sans and Mono
 - GNU FreeFont
 - Go fonts
+- iA Writer
+- Infini
 - Inknut Anti­qua
 - Lato
+- Linguistics Pro
 - Open Sans
 - Overpass
+- Permian?
 - Playfair
+- Public Sans
 - Rosario
+- Victor Mono
 
 
 ## Also
