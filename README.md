@@ -45,7 +45,7 @@ In alphabetic order.
 
 - **Merriweather**. Cyrillic
 
-- Noto: for Google ... Cyrillic, Greek, Chinese, Japanese, Korean.
+- [**Noto**](https://notofonts.github.io/noto-docs/website/homepage/): multilanguage superfamily for Google ... [Wikipedia](https://en.wikipedia.org/wiki/Noto_fonts). [Google Fonts](https://fonts.google.com/noto). [Repo](https://github.com/notofonts). Cyrillic, Greek, Chinese, Japanese, Korean, ... OFL.
 
 - Overpass: Cyrillic
 
