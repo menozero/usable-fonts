@@ -27,7 +27,7 @@ In alphabetic order.
 
 - [**Cooper Hewitt**](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/): sans-serif. OFL.
 
-- Cousine: monospaced. Cyrillic, Greek. Apache.
+- Cousine: monospaced. Also [Liberation Mono](https://en.wikipedia.org/wiki/Liberation_fonts). Cyrillic, Greek. Apache.
 
 - **Fira Sans** and **Fira Mono** (or Fira Code) and FiraGo: sans-serif (with condensed) and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. Cyrillic, Greek. OFL.
 
@@ -41,6 +41,8 @@ In alphabetic order.
 
 - **JetBrains Mono**: monospaced. Cyrillic, Greek
 
+- [**JuliaMono**](https://juliamono.netlify.app/): monospaced. Math.
+ 
 - Lekton: monospaced
 
 - [**Literata**](https://github.com/googlefonts/literata/): legible serif for Google Books by TypeTogether. [Site](https://www.type-together.com/literata-font). [Wikipedia](https://en.wikipedia.org/wiki/Literata). (Kindle has [Bookerly](https://en.wikipedia.org/wiki/Bookerly).) Cyrillic, Greek. OFL.
