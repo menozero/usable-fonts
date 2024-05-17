@@ -21,6 +21,25 @@
 - Operator (not free)
 - Tinos
 
+Classics:
+Akzidenz-Grotesk
+Georgia ? (system)
+Helvetica
+Hoefler Text (system)
+Lucida *
+FF Meta => Fira
+Minion
+Myriad
+News Gothic => IBM Plex Sans
+Optima ?
+Univers
+Verdana => DejaVu Sans?
+
+NO
+Arial
+Tahoma
+
+
 ## TODO
 
 - Archivo
@@ -38,13 +57,15 @@
 - Linguistics Pro
 - Open Sans
 - Overpass
+- Oxygen
 - Permian?
 - Playfair
 - Public Sans
 - Rosario
+- Utopia (TeX license...)
 - Victor Mono
 
 
 ## Also
 
-- System fonts? Roboto, San Francisco, ... + mono
+- System fonts? Roboto, San Francisco, Segoe UI ... + mono
