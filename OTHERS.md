@@ -3,6 +3,7 @@
 
 - https://www.fontsquirrel.com/
 - https://beautifulwebtype.com/
+- https://open-foundry.com/
 - https://en.wikipedia.org/wiki/Category:Open-source_typefaces
 - https://en.wikipedia.org/wiki/Category:Free_software_Unicode_typefaces
 - https://github.com/brabadu/awesome-fonts
