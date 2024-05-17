@@ -33,7 +33,7 @@ In alphabetic order.
 
 - [**Gentium**](https://software.sil.org/gentium/) by SIL. [Wikipedia](https://en.wikipedia.org/wiki/Gentium). Cyrillic, Greek. OFL.
 
-- **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono**: for IBM. [Repo](https://github.com/IBM/plex). [Wikipedia](https://en.wikipedia.org/wiki/IBM_Plex). Cyrillic, Greek, Japanese, Korean. OFL.
+- **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono** ★★★★★: for IBM. [Repo](https://github.com/IBM/plex). [Wikipedia](https://en.wikipedia.org/wiki/IBM_Plex). Cyrillic, Greek, Japanese, Korean. OFL.
 
 - **Inconsolata**: monospaced
 
@@ -45,7 +45,7 @@ In alphabetic order.
  
 - Lekton: monospaced
 
-- [**Literata**](https://github.com/googlefonts/literata/): legible serif for Google Books by TypeTogether. [Site](https://www.type-together.com/literata-font). [Wikipedia](https://en.wikipedia.org/wiki/Literata). (Kindle has [Bookerly](https://en.wikipedia.org/wiki/Bookerly).) Cyrillic, Greek. OFL.
+- [**Literata**](https://github.com/googlefonts/literata/): legible serif for Google Books by TypeTogether ★★★★☆. [Site](https://www.type-together.com/literata-font). [Wikipedia](https://en.wikipedia.org/wiki/Literata). (Kindle has [Bookerly](https://en.wikipedia.org/wiki/Bookerly).) Cyrillic, Greek. OFL.
 
 - **Merriweather**: semi-serif. Cyrillic.
 
