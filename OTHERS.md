@@ -47,22 +47,32 @@ Tahoma
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) ?
 - Bitter
 - Clear Sans
+- Cormorant?
 - Croscore fonts
 - DM Sans and Mono
+- Encode Sans, no italic
+- Epilogue, sans-serif
 - GNU FreeFont
 - Go fonts
+- Hahmlet, serif display, no italic
 - iA Writer
 - Infini
 - Inknut Anti­qua
-- Lato
+- Lato !
 - Linguistics Pro
+- Lora !
+- Manrope, sans-serif, no italic
+- Montserrat
 - Open Sans
 - Overpass
 - Oxygen
 - Permian?
 - Playfair
+- Poppins
 - Public Sans
+- Raleway?
 - Rosario
+- Sora, sans-serif diplay, no italic
 - Utopia (TeX license...)
 - Victor Mono
 
