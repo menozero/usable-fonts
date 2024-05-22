@@ -37,7 +37,7 @@ In alphabetic order.
 
 - **Inconsolata**: monospaced
 
-- [**Inter**](https://rsms.me/inter/): sans-serif, for Figma, by Rasmus Andersson. [Repo](https://github.com/rsms/inter). [Google Fonts](https://fonts.google.com/specimen/Inter). Cyrillic, Greek
+- [**Inter**](https://rsms.me/inter/): sans-serif, for Figma, by Rasmus Andersson. [Repo](https://github.com/rsms/inter). [Google Fonts](https://fonts.google.com/specimen/Inter). Cyrillic, Greek. [An ode](https://mattwestcott.org/blog/an-ode-to-the-inter-typeface).
 
 - **JetBrains Mono**: monospaced. Cyrillic, Greek
 
