@@ -53,6 +53,7 @@ Tahoma
 - DM Sans and Mono
 - Encode Sans, no italic
 - Epilogue, sans-serif
+- https://github.com/weiweihuanghuang/fragment-mono/
 - GNU FreeFont
 - Go fonts
 - Hahmlet, serif display, no italic
