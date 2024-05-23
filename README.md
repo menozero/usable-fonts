@@ -72,3 +72,7 @@ In alphabetic order.
 - **Ubuntu Sans** and **Ubuntu Mono**: system sans-serif font for Ubuntu. [Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_(typeface)). Cyrillic, Greek
 
 - [**Work Sans**](https://weiweihuanghuang.github.io/Work-Sans/). OFL.
+
+## See also
+
+- Free fonts: [Font Squirrel](https://www.fontsquirrel.com/)
