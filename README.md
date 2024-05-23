@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Usable Fonts
 
 A list of good open-source fonts.
