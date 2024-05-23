@@ -46,11 +46,14 @@ Tahoma
 - Archivo
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) ?
 - Bitter
+- Cabin?
 - Chivo and Chivo Mono
 - Clear Sans
 - Cormorant?
+- Crimson * ?
 - Croscore fonts
 - DM Sans and Mono
+- EB Garamond ?
 - Encode Sans, no italic
 - Epilogue, sans-serif
 - Faustina
@@ -62,14 +65,19 @@ Tahoma
 - iA Writer
 - Infini
 - Inknut Anti­qua
+- Junicode ?
 - Lato !
+- Libre Baskerville ?
+- Libre Caslon ?
 - Linguistics Pro
+- Linux Libertine ?
 - Lora !
 - Manrope, sans-serif, no italic
 - Manuale
 - https://github.com/github/mona-sans
 - https://monaspace.githubnext.com/
 - Montserrat
+- Open Baskerville ?
 - Open Sans
 - Overpass
 - Oxygen
@@ -79,7 +87,9 @@ Tahoma
 - Public Sans
 - Raleway?
 - Rosario, semiserif by [Omnibus-Type](https://www.omnibus-type.com/fonts/rosario/). [Git](https://github.com/Omnibus-Type/Rosario). OTF.
+- Sinkin Sans ?
 - Sora, sans-serif diplay, no italic
+- https://www.gust.org.pl/projects/e-foundry/tex-gyre ?
 - Utopia (TeX license...)
 - Victor Mono
 
