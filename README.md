@@ -75,4 +75,4 @@ In alphabetic order.
 
 ## See also
 
-- Free fonts: [Font Squirrel](https://www.fontsquirrel.com/)
+- Free fonts: [**Font Squirrel**](https://www.fontsquirrel.com/), [Open Font Library](https://fontlibrary.org/).
