@@ -29,7 +29,7 @@ In alphabetic order.
 
 - Cousine: monospaced. Also [Liberation Mono](https://en.wikipedia.org/wiki/Liberation_fonts). Cyrillic, Greek. Apache.
 
-- **Fira Sans** and **Fira Mono** (or Fira Code) and FiraGo: sans-serif (with condensed) and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. Cyrillic, Greek. OFL.
+- **Fira Sans** and **Fira Mono** (or Fira Code) and [FiraGO](https://bboxtype.com/typefaces/FiraGO/): sans-serif (with condensed) and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. [W](https://en.wikipedia.org/wiki/Fira_(typeface)), A [review](https://typographica.org/typeface-reviews/fira-sans/). Cyrillic, Greek, [Math](https://github.com/firamath/firamath). OFL.
 
 - [**Gentium**](https://software.sil.org/gentium/) by SIL. [Wikipedia](https://en.wikipedia.org/wiki/Gentium). Cyrillic, Greek. OFL.
 
