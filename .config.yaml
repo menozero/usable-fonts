@@ -7,7 +7,7 @@ repository: menozero/usable-fonts
 github_username: menozero
 
 # theme: minima
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 
 plugins:
 - jekyll-remote-theme
