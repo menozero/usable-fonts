@@ -1,7 +1,6 @@
 
 ## See also
 
-- https://www.fontsquirrel.com/
 - https://beautifulwebtype.com/
 - https://open-foundry.com/
 - https://www.awwwards.com/awwwards/collections/free-fonts/
