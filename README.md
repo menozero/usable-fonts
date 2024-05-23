@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: /
+title: Usable Fonts
 ---
 
 # Usable Fonts
