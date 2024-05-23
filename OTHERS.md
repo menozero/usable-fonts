@@ -59,6 +59,7 @@ Tahoma
 - GNU FreeFont
 - Go fonts
 - Hahmlet, serif display, no italic
+- https://github.com/github/hubot-sans
 - iA Writer
 - Infini
 - Inknut Anti­qua
@@ -67,6 +68,8 @@ Tahoma
 - Lora !
 - Manrope, sans-serif, no italic
 - Manuale
+- https://github.com/github/mona-sans
+- https://monaspace.githubnext.com/
 - Montserrat
 - Open Sans
 - Overpass
