@@ -73,7 +73,7 @@ Tahoma
 - Poppins
 - Public Sans
 - Raleway?
-- Rosario
+- Rosario, semiserif by [Omnibus-Type](https://www.omnibus-type.com/fonts/rosario/). [Git](https://github.com/Omnibus-Type/Rosario). OTF.
 - Sora, sans-serif diplay, no italic
 - Utopia (TeX license...)
 - Victor Mono
