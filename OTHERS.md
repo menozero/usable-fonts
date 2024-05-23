@@ -47,12 +47,14 @@ Tahoma
 - Archivo
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) ?
 - Bitter
+- Chivo and Chivo Mono
 - Clear Sans
 - Cormorant?
 - Croscore fonts
 - DM Sans and Mono
 - Encode Sans, no italic
 - Epilogue, sans-serif
+- Faustina
 - https://github.com/weiweihuanghuang/fragment-mono/
 - GNU FreeFont
 - Go fonts
@@ -64,6 +66,7 @@ Tahoma
 - Linguistics Pro
 - Lora !
 - Manrope, sans-serif, no italic
+- Manuale
 - Montserrat
 - Open Sans
 - Overpass
