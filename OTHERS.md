@@ -86,6 +86,7 @@ Tahoma
 - Poppins
 - Public Sans
 - Raleway?
+- Reddit Sans and Mono
 - Rosario, semiserif by [Omnibus-Type](https://www.omnibus-type.com/fonts/rosario/). [Git](https://github.com/Omnibus-Type/Rosario). OTF.
 - Sinkin Sans ?
 - Sora, sans-serif diplay, no italic
