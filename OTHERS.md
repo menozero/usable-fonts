@@ -99,3 +99,5 @@ Tahoma
 
 - System fonts? Roboto, San Francisco, Segoe UI ... + mono
   * https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/
+ 
+- https://www.thomasphinney.com/2024/05/do-companies-get-sued-for-using-fonts-illegally/
