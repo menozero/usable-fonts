@@ -11,6 +11,7 @@
 - https://practicaltypography.com/font-recommendations.html
 - https://practicaltypography.com/free-fonts.html
 - https://practicaltypography.com/why-google-fonts-arent-really-open-source.html
+- (old) http://luc.devroye.org/opensourcefonts.html
 
 ## NO
 
