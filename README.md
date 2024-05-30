@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /
 title: Usable Fonts
 ---
@@ -48,7 +47,7 @@ In alphabetic order.
 - **JetBrains Mono**: monospaced. Cyrillic, Greek
 
 - [**JuliaMono**](https://juliamono.netlify.app/): monospaced. Math.
- 
+
 - Lekton: monospaced
 
 - [**Literata**](https://github.com/googlefonts/literata/): legible serif for Google Books by TypeTogether ★★★☆. [Site](https://www.type-together.com/literata-font). [Wikipedia](https://en.wikipedia.org/wiki/Literata). (Kindle has [Bookerly](https://en.wikipedia.org/wiki/Bookerly).) Cyrillic, Greek. OFL.
@@ -60,9 +59,9 @@ In alphabetic order.
 - Overpass and Mono: for Red Hat. [Wikipedia](https://en.wikipedia.org/wiki/Overpass_(typeface)). Cyrillic
 
 - [Piazzolla](https://huertatipografica.com/en/fonts/piazzolla): serif. [Site](https://piazzolla.huertatipografica.com/). Cyrillic, Greek
- 
+
 - **Roboto**: system sans-serif for Google Android. (Apple has [San Francisco](https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)).) Cyrillic, Greek.
- 
+
 - **Source Sans**, **Source Serif** and **Source Mono**: by Adobe. Cyrillic, Greek
 
 - [**Spectral**](https://www.productiontype.com/family/spectral): for Goole Docs. [Google Fonts](https://fonts.google.com/specimen/Spectral). Cyrillic. OFL.
