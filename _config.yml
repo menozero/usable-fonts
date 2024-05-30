@@ -1,12 +1,13 @@
-title: Usable Fonts
-description: >- Desc...
+title: "Usable Fonts"
+description: >-
+  Description ...
 
 lang: en
 
 author: menozero
 
-url: "https://menozero.github.io"
-baseurl: "/usable-fonts"
+# url: "https://menozero.github.io"
+# baseurl: "/usable-fonts"
 
 repository: menozero/usable-fonts
 github_username: menozero
@@ -15,3 +16,9 @@ github_username: menozero
 # remote_theme: jekyll/minima
 # plugins:
 # - jekyll-remote-theme
+
+
+liquid:
+  error_mode: warn
+  # strict_variables: true
+  strict_filters: true
