@@ -14,7 +14,7 @@ A list of good open-source fonts.
 
 - Uses: text, UI, display, code, ...
 
-- Opinionated subset, taste, personal. Yes, I like monospaced fonts.
+- Opinionated subset, taste, personal. _Yes, I like monospaced fonts._
 
 
 ## The list
