@@ -39,9 +39,11 @@ In alphabetic order.
 
 - **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono** ★★★★: for IBM. [Repo](https://github.com/IBM/plex). [Wikipedia](https://en.wikipedia.org/wiki/IBM_Plex). Cyrillic, Greek, Japanese, Korean. OFL.
 
-- [**Inconsolata**](https://levien.com/type/myfonts/inconsolata.html): monospaced. [Git](https://github.com/googlefonts/inconsolata) or [Git](https://github.com/google/fonts/tree/main/ofl/inconsolata), [[G]](https://fonts.google.com/specimen/Inconsolata), [[W]](https://en.wikipedia.org/wiki/Inconsolata). OFL.
+- [**Inconsolata**](https://levien.com/type/myfonts/inconsolata.html): monospaced.
+  [Git](https://github.com/googlefonts/inconsolata) or [Git](https://github.com/google/fonts/tree/main/ofl/inconsolata), [[G]](https://fonts.google.com/specimen/Inconsolata), [[W]](https://en.wikipedia.org/wiki/Inconsolata). OFL.
 
-- [**Inter**](https://rsms.me/inter/): sans-serif, for Figma, by Rasmus Andersson. [Repo](https://github.com/rsms/inter). [Google Fonts](https://fonts.google.com/specimen/Inter). Cyrillic, Greek. [An ode](https://mattwestcott.org/blog/an-ode-to-the-inter-typeface).
+- [**Inter**](https://rsms.me/inter/): sans-serif, for Figma, by Rasmus Andersson. \
+  [Repo](https://github.com/rsms/inter). [Google Fonts](https://fonts.google.com/specimen/Inter). Cyrillic, Greek. [An ode](https://mattwestcott.org/blog/an-ode-to-the-inter-typeface).
 
 - **JetBrains Mono**: monospaced. Cyrillic, Greek
 
