@@ -19,10 +19,71 @@
   // unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 
-body {
+html, body {
   font-family: "Literata", serif;
   font-optical-sizing: auto;
   // font-variation-settings: 'wght' 630, 'wdth' 88;
   font-weight: 400;
   font-style: normal;
+}
+
+$u: 24px;
+$r: 1.3;
+
+html {
+  font-size: $u / $r;
+  line-height: $u;
+}
+
+body {
+  background: #f7f7f7;
+  color: #222;
+}
+
+body {
+  margin: 0;
+  padding: $u $u * 2;
+}
+
+h1 {
+  font-size: $u * $r;
+  line-height: $u * 2;
+  margin: 0 0 $u 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: $u;
+  line-height: $u * $r;
+  margin: $u 0 $u / 2 0;
+  padding: 0;
+}
+
+p {
+  max-width: 48em;
+  margin: 0;
+  padding: 0;
+  & + p {
+    margin-top: $u / 2;
+  }
+}
+
+ol, ul {
+  margin: $u / 2 0;
+  padding: 0 $u * 2;
+  li {
+    margin: $u / 2 0;
+    padding: 0;
+  }
+}
+ul > li {
+  list-style-type: square;
+}
+
+a:link, a:visited {
+  color: #900;
+  text-decoration: none;
+  &:hover, &:active {
+    text-decoration: underline;
+  }
 }
