@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: Usable Fonts
 ---
 
 # Usable Fonts
@@ -74,4 +73,6 @@ In alphabetic order.
 
 ## See also
 
-- Free fonts: [**Font Squirrel**](https://www.fontsquirrel.com/), [Open Font Library](https://fontlibrary.org/).
+- Free fonts: [**Font Squirrel**](https://www.fontsquirrel.com/),
+  [**google-webfonts-helper**](https://gwfh.mranftl.com/),
+  [Open Font Library](https://fontlibrary.org/).
