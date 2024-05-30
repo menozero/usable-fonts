@@ -1,17 +1,17 @@
 title: Usable Fonts
-description: Desc...
+description: >- Desc...
+
 lang: en
+
 author: menozero
+
+url: "https://menozero.github.io"
+baseurl: "/usable-fonts"
 
 repository: menozero/usable-fonts
 github_username: menozero
 
 # theme: minima
 # remote_theme: jekyll/minima
-
-plugins:
-- jekyll-remote-theme
-
-minima:
-  skin: solarired
-  
+# plugins:
+# - jekyll-remote-theme
