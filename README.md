@@ -76,3 +76,7 @@ In alphabetic order.
 - Free fonts: [**Font Squirrel**](https://www.fontsquirrel.com/),
   [**google-webfonts-helper**](https://gwfh.mranftl.com/),
   [Open Font Library](https://fontlibrary.org/).
+
+## License
+
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) "No Rights Reserved"
