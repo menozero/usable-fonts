@@ -46,6 +46,7 @@ Tahoma
 
 - Archivo
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) ?
+- https://github.com/jpt/barlow
 - Bitter
 - Cabin?
 - Chivo and Chivo Mono
