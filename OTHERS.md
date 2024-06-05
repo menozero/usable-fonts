@@ -18,9 +18,9 @@
 - Arimo
 - [Brill](https://brill.com/page/BrillFont/brill-typeface): free for non-commercial use.
 - Droid (old Android font)
-- Input (not free)
+- Input (not free) https://input.djr.com/
 - Liberation fonts
-- Operator (not free)
+- Operator (not free) https://www.typography.com/fonts/operator/overview
 - Tinos
 
 Classics:
@@ -59,6 +59,7 @@ Tahoma
 - Epilogue, sans-serif
 - Faustina
 - https://github.com/weiweihuanghuang/fragment-mono/
+- https://gidole.github.io/
 - GNU FreeFont
 - Go fonts
 - Hahmlet, serif display, no italic
@@ -77,9 +78,10 @@ Tahoma
 - Manrope, sans-serif, no italic
 - Manuale
 - https://github.com/github/mona-sans
-- https://monaspace.githubnext.com/
+- https://monaspace.githubnext.com/ https://github.com/githubnext/monaspace
+- https://github.com/evilmartians/mono
 - Montserrat
-- Open Baskerville ?
+- Open Baskerville ? http://klepas.org/openbaskerville/
 - Open Sans
 - Overpass
 - Oxygen
@@ -93,6 +95,7 @@ Tahoma
 - Sinkin Sans ?
 - Sora, sans-serif diplay, no italic
 - https://www.gust.org.pl/projects/e-foundry/tex-gyre ?
+- https://github.com/coreyhu/Urbanist
 - Utopia (TeX license...)
 - Victor Mono
 
