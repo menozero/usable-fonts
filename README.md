@@ -79,6 +79,7 @@ In alphabetic order.
 
 - Free fonts: [**Font Squirrel**](https://www.fontsquirrel.com/),
   [**google-webfonts-helper**](https://gwfh.mranftl.com/),
+  [indestructible type*](https://indestructibletype.com/),
   [The League of Movable Type](https://www.theleagueofmoveabletype.com/),
   [Open Font Library](https://fontlibrary.org/).
 
