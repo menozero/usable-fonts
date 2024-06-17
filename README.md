@@ -5,8 +5,10 @@ permalink: /
 # Usable Fonts
 
 A list of good open-source fonts.
+Not just free, but with an "open source" license, like SIL [Open Font License](https://openfontlicense.org/).
 
-- The license should be "open source": SIL [Open Font License](https://openfontlicense.org/), ...
+Yes, making a good typeface is [expensive](https://www.thomasphinney.com/2024/06/custom-designed-typeface-cost/) and hard.
+And yes, every font is usable.
 
 - Languages and alphabets: Latin, Cyrillic, Greek. "Extended".
 
