@@ -14,9 +14,9 @@ github_username: menozero
 
 # theme: minima
 # remote_theme: jekyll/minima
-# plugins:
+plugins:
+  - "jekyll-github-metadata"
 # - jekyll-remote-theme
-
 
 liquid:
   error_mode: warn
