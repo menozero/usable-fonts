@@ -13,7 +13,9 @@
 {{ content }}
 
         <footer>
-            {{ site.time | date: "%Y" }} {{ site.author }}
+            {{ site.time | date: "%Y" }} <a href="{{ owner_url }}">{{ site.author }}</a> <!-- {{ owner_name }} -->
+            &mdash; <a href="{{ site.github.repository_url }}">Repository</a>
+            &mdash; <a href="{% github_edit_link %}">Edit this page</a>
         </footer>
 
     </body>
