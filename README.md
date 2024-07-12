@@ -37,6 +37,8 @@ In alphabetic order.
 
 - **Fira Sans** and **Fira Mono** (or Fira Code) and [FiraGO](https://bboxtype.com/typefaces/FiraGO/): sans-serif (with condensed) and monospaced, for Mozilla, by Erik Spiekermann et al. Similar to FF Meta. Good for UI. [W](https://en.wikipedia.org/wiki/Fira_(typeface)), A [review](https://typographica.org/typeface-reviews/fira-sans/). Cyrillic, Greek, [Math](https://github.com/firamath/firamath). OFL.
 
+- [Geist](https://vercel.com/font) Sans and Mono.
+
 - [**Gentium**](https://software.sil.org/gentium/) by SIL. [Wikipedia](https://en.wikipedia.org/wiki/Gentium). Cyrillic, Greek. OFL.
 
 - **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono** ★★★★: for IBM. [Repo](https://github.com/IBM/plex). [Wikipedia](https://en.wikipedia.org/wiki/IBM_Plex). Cyrillic, Greek, Japanese, Korean. OFL.
