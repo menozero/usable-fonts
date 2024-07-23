@@ -68,6 +68,7 @@ Tahoma
 - iA Writer
 - Infini
 - Inknut Anti­qua
+- https://typeof.net/Iosevka/ https://github.com/be5invis/Iosevka
 - Junicode ?
 - Lato !
 - Libre Baskerville ?
