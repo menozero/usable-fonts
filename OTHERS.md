@@ -12,6 +12,7 @@
 - https://practicaltypography.com/free-fonts.html
 - https://practicaltypography.com/why-google-fonts-arent-really-open-source.html
 - (old) http://luc.devroye.org/opensourcefonts.html
+- TODO http://www.identifont.com/free-fonts.html
 
 ## NO
 
