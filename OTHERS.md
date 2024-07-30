@@ -45,6 +45,8 @@ Tahoma
 
 ## TODO
 
+- Aleo (+ Lato)
+- Arvo?
 - Archivo
 - [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) ?
 - https://github.com/jpt/barlow
@@ -67,7 +69,6 @@ Tahoma
 - Hahmlet, serif display, no italic
 - https://github.com/github/hubot-sans
 - iA Writer
-- Infini
 - Inknut Anti­qua
 - https://typeof.net/Iosevka/ https://github.com/be5invis/Iosevka
 - Junicode ?
@@ -83,7 +84,6 @@ Tahoma
 - https://github.com/github/mona-sans
 - https://monaspace.githubnext.com/ https://github.com/githubnext/monaspace
 - https://github.com/evilmartians/mono
-- Montserrat
 - Open Baskerville ? http://klepas.org/openbaskerville/
 - Open Sans
 - Overpass
@@ -92,7 +92,6 @@ Tahoma
 - Playfair
 - Poppins
 - Public Sans
-- Raleway?
 - Reddit Sans and Mono
 - Rosario, semiserif by [Omnibus-Type](https://www.omnibus-type.com/fonts/rosario/). [Git](https://github.com/Omnibus-Type/Rosario). OTF.
 - Sinkin Sans ?
@@ -101,6 +100,13 @@ Tahoma
 - https://github.com/coreyhu/Urbanist
 - Utopia (TeX license...)
 - Victor Mono
+
+
+## Display only
+
+- Infini
+- Montserrat
+- Raleway?
 
 
 ## Also
