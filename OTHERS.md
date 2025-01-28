@@ -104,6 +104,7 @@ Tahoma
 - https://github.com/coreyhu/Urbanist
 - Utopia (TeX license...)
 - Victor Mono
+- Ysabeau
 
 
 ## Display only
