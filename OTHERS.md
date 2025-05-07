@@ -84,7 +84,8 @@ Tahoma
 - Manrope, sans-serif, no italic
 - Manuale
 - https://github.com/github/mona-sans
-- https://monaspace.githubnext.com/ https://github.com/githubnext/monaspace
+- https://monaspace.githubnext.com/ https://github.com/githubnext/monaspace https://github.com/mona-sans
+- https://github.blog/news-insights/company-news/introducing-mona-sans-and-hubot-sans/ https://github.com/github/hubot-sans
 - https://github.com/evilmartians/mono
 - Open Baskerville ? http://klepas.org/openbaskerville/
 - Open Sans
