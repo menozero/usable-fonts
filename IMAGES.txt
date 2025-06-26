@@ -1,3 +1,3 @@
 # Inter
 https://rsms.me/inter/download/
-convert -verbose -font Inter.ttc -pointsize 36 -density 200 label:"Inter ABCabc 1.23 O01Ili!" inter.png
+convert -verbose -font Inter.ttc -pointsize 36 -density 200 -background none label:"Inter ABCabc 1.23 O01Ili!" inter.png
