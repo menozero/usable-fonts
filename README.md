@@ -39,7 +39,9 @@ In alphabetic order.
 
 - [Geist](https://vercel.com/font) Sans and Mono.
 
-- [**Gentium**](https://software.sil.org/gentium/) by SIL. [Wikipedia](https://en.wikipedia.org/wiki/Gentium). Cyrillic, Greek. OFL.
+- [**Gentium**](https://software.sil.org/gentium/) by SIL. \
+  ![Gentium](assets/images/gentium.png) \
+  [Wikipedia](https://en.wikipedia.org/wiki/Gentium). Cyrillic, Greek. OFL.
 
 - **[IBM Plex](https://www.ibm.com/plex/) Sans**, **Serif** and **Mono** ★★★★: for IBM. [Repo](https://github.com/IBM/plex). [Wikipedia](https://en.wikipedia.org/wiki/IBM_Plex). Cyrillic, Greek, Japanese, Korean. OFL.
 
