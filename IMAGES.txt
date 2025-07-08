@@ -1,7 +1,13 @@
 # Gentium
 https://software.sil.org/gentium/download/
-convert -verbose -font Gentium-Regular.ttf -pointsize 36 -density 200 -background none label:"Gentium ABCabc 1.23 O01Ili!" gentium.png
+convert -verbose -font Gentium-Regular.ttf -pointsize 18 -density 200 -background none label:"Gentium ABCabc 1.23 O01Ili!" gentium.png
 
 # Inter
 https://rsms.me/inter/download/
-convert -verbose -font Inter.ttc -pointsize 36 -density 200 -background none label:"Inter ABCabc 1.23 O01Ili!" inter.png
+convert -verbose -font Inter.ttc -pointsize 18 -density 200 -background none label:"Inter ABCabc 1.23 O01Ili!" inter.png
+
+
+
+# 234567
+# "oO08 iIlL1 g9qCGQ 8%& <([{}])> .,;: -_="
+# "â é ù ï ø ç Ã Ē Æ œ"
