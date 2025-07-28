@@ -102,6 +102,7 @@ Tahoma
 - Sinkin Sans ?
 - Sora, sans-serif diplay, no italic
 - https://www.gust.org.pl/projects/e-foundry/tex-gyre ?
+- https://github.com/tiktok/TikTokSans
 - https://github.com/coreyhu/Urbanist
 - Utopia (TeX license...)
 - Victor Mono
