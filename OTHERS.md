@@ -81,6 +81,7 @@ Tahoma
 - Linguistics Pro
 - Linux Libertine ?
 - Lora !
+- https://github.com/subframe7536/Maple-font
 - Manrope, sans-serif, no italic
 - Manuale
 - https://github.com/github/mona-sans
