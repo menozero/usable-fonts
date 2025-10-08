@@ -102,6 +102,7 @@ Tahoma
 - https://servermono.com/
 - Sinkin Sans ?
 - Sora, sans-serif diplay, no italic
+- SUSE https://github.com/SUSE/suse-font
 - https://www.gust.org.pl/projects/e-foundry/tex-gyre ?
 - https://github.com/tiktok/TikTokSans
 - https://github.com/coreyhu/Urbanist
