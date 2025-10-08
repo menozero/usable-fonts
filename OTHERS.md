@@ -109,6 +109,7 @@ Tahoma
 - Utopia (TeX license...)
 - Victor Mono
 - Ysabeau
+- Zalando https://github.com/zalando/sans
 
 
 ## Display only
